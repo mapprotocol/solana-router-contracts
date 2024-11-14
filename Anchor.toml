@@ -1,0 +1,21 @@
+[toolchain]
+anchor_version = "0.29.0"
+solana_version = "1.17.31"
+
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+chainpool = "B6rMLK5baKzh7uKTX9GnvaX1VLBZ8eYtZoEGpYkvwCVF"
+router = "76ASwn3P6TctZY4ssnhTPhm1rvRDe6FmJK2rq92kYv7Z"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/mapo.json"
+
+[scripts]
+test = "yarn run jest --preset ts-jest"
