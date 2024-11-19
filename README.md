@@ -14,11 +14,11 @@ rust, solana and anchor install on your machine [here](https://www.anchor-lang.c
 
 
 ## Run test 
-- The program(ChainPool) deployed on [devnet](https://explorer.solana.com/address/B6rMLK5baKzh7uKTX9GnvaX1VLBZ8eYtZoEGpYkvwCVF?cluster=devnet).
+- The program(ChainPool) deployed on [devnet](https://explorer.solana.com/address/AxjZxsTdG5payyC5fwvnRXwD69xG35bdbRtTMLAefWbn?cluster=devnet).
 
-[Program ID](https://explorer.solana.com/address/B6rMLK5baKzh7uKTX9GnvaX1VLBZ8eYtZoEGpYkvwCVF?cluster=devnet):
+[Program ID](https://explorer.solana.com/address/AxjZxsTdG5payyC5fwvnRXwD69xG35bdbRtTMLAefWbn?cluster=devnet):
 ```ts
-  const programId = B6rMLK5baKzh7uKTX9GnvaX1VLBZ8eYtZoEGpYkvwCVF
+  const programId = AxjZxsTdG5payyC5fwvnRXwD69xG35bdbRtTMLAefWbn
 ```
 
 - Run test:
